@@ -4,8 +4,7 @@ export const tweetsData = [
         profilePic: `images/troll.jpg`,
         likes: 27,
         retweets: 10,
-        tweetText: `Buy Bitcoin, ETH Make 💰💰💰 low low prices. 
-            Guaranteed return on investment. HMU DMs open!!`,
+        tweetText: `I am an exceptional front-end developer with razor sharp skills in HTML, CSS, Javascript, React and so much more! Check me out!`,
         replies: [],
         isLiked: false,
         isRetweeted: false,
