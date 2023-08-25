@@ -1,6 +1,6 @@
 export const tweetsData = [   
     {
-        handle: `@IzuBaba 💎`,
+        handle: `@MyTwitterProfile 💎`,
         profilePic: `images/troll.jpg`,
         likes: 27,
         retweets: 10,
@@ -33,16 +33,16 @@ export const tweetsData = [
         uuid: '3c23454ee-c0f5-9g9g-9c4b-77835tgs2',
     },
         {
-        handle: `@NoobCoder12`,
+        handle: `@IzuBaba`,
         profilePic: `images/flower.png`,
         likes: 10,
         retweets: 3,
-        tweetText: `Are you a coder if you only know HTML?`,
+        tweetText: `I am an exceptional front-end developer with razor sharp skills in HTML, CSS, Javascript, React and so much more! Check me out!`,
         replies: [
             {
                 handle: `@StackOverflower ☣️`,
                 profilePic: `images/overflow.png`,
-                tweetText: `No. Obviosuly not. Go get a job in McDonald's.`,
+                tweetText: `I love your work! Lets Talk.`,
             },
             {
                 handle: `@YummyCoder64`,
