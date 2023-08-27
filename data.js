@@ -12,14 +12,14 @@ export const tweetsData = [
     },    
     {
         handle: `@Babble ✅`,
-        profilePic: `images/musk.png`,
+        profilePic: `images/tcruise.png`,
         likes: 6500,
         retweets: 234,
         tweetText: `Babble is my brand name formy projects and live work. Youll love it!`,
         replies: [
                   {
-                handle: `@ife ✅`,
-                profilePic: `images/tcruise.png`,
+                handle: `@ElonMusk ✅`,
+                profilePic: `images/musk.png`,
                 tweetText: `Id like to hire you. Send me a DM! 😎🛩`,
             },
                   {
