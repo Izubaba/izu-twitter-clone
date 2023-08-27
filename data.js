@@ -20,7 +20,7 @@ export const tweetsData = [
                   {
                 handle: `@ife ✅`,
                 profilePic: `images/tcruise.png`,
-                tweetText: `Yes! Sign me up! 😎🛩`,
+                tweetText: `Id like to hire you. Send me a DM! 😎🛩`,
             },
                   {
                 handle: `@Sola ✅`,
