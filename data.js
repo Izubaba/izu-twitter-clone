@@ -23,7 +23,7 @@ export const tweetsData = [
                 tweetText: `Id like to hire you. Send me a DM! 😎🛩`,
             },
                   {
-                handle: `@Sola ✅`,
+                handle: `@ChuckNorris ✅`,
                 profilePic: `images/chucknorris.jpeg`,
                 tweetText: `Babble is AWESOME! Cant Wait t see what you do next 😎`,
             },
