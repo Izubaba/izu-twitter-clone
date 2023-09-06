@@ -4,7 +4,7 @@ export const tweetsData = [
         profilePic: `images/troll.jpg`,
         likes: 27,
         retweets: 10,
-        tweetText: `This is my Twitter clone (or shall i say X-clone)i developed from scratch! Play with the functionality - click the "whats happening" section to add a personalised tweet, click the likes, tweets and retweets!`,
+        tweetText: `This is my Twitter clone (or shall i say my X-clone)i developed from scratch using Javascript! Play with the functionality - click the "whats happening" section to add a personalised tweet, click the likes, tweets and retweets!`,
         replies: [],
         isLiked: false,
         isRetweeted: false,
